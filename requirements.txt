@@ -1,0 +1,11 @@
+langgraph>=0.2
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-ollama>=0.2
+fastapi>=0.110
+pydantic>=2
+uvicorn>=0.29
+python-dotenv>=1.0
+langchain-openai>=0.2
+langchain-anthropic>=0.2
+langchain-google-genai>=2.0
